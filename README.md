@@ -140,8 +140,7 @@ Available under **Sidebar → Stats**:
 
 ---
 
-## 🙌 Acknowledgments
-
+## 🙌 Tools used
 - [MediaPipe](https://github.com/google-ai-edge/mediapipe) Pose by Google Research  
 - Streamlit-WebRTC for real-time webcam support  
 - Altair for interactive visualization  
